@@ -18,7 +18,7 @@ Kodluyoruz Eğitimi Kağsamında Açtığım İlk Repo
 *Tester ...
 ```
 |PROGRAMMING LANG.|LEARNED|SCORE|
-|:---||:---:||---:|
+| :--- || :---: || ---: |
 |PYTHON||YES||***PERFECT***|
 |JAVA||NO||*NO COMMENT*|
 
