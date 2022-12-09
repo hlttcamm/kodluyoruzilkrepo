@@ -14,8 +14,8 @@ Kodluyoruz Eğitimi Kağsamında Açtığım İlk Repo
 - Full Stack
 - Front End
 - Back End
-* Data Science
-* Tester ...
+- Data Science
+- Tester ...
 
 ```
 system.out.println("hello world")
