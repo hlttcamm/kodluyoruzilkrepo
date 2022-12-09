@@ -17,10 +17,10 @@ Kodluyoruz Eğitimi Kağsamında Açtığım İlk Repo
 *Data Science
 *Tester ...
 ```
-|PROGRAMMING LANG.|LEARNED|SCORE|
+| PROGRAMMING LANG. | LEARNED | SCORE |
 | :--- || :---: || ---: |
-|PYTHON||YES||***PERFECT***|
-|JAVA||NO||*NO COMMENT*|
+| PYTHON || YES || ***PERFECT*** |
+| JAVA || NO || *NO COMMENT* |
 
 ---
 *I will be glad of submission of codes I work on* 
